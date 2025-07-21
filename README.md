@@ -1,11 +1,11 @@
 ## 📑 Table of Contents
 
-- [Introduction](#introduction)
-- [Tech Stack](#tech-stack)
-- [Features](#features)
-- [Quick Start](#quick-start)
+- [🧠 Introduction](#-introduction)
+- [🧰 Tech Stack](#-tech-stack)
+- [✨ Features](#-features)
+- [📸 Screenshots](#-screenshots)
+- [⚡ Quick Start](#-quick-start)
 
----
 
 ## 🧠 Introduction
 
@@ -13,7 +13,6 @@
 
 Users can upload a resume and receive AI-generated feedback on content quality, skills, formatting, keywords, and ATS (Applicant Tracking System) compatibility. This web app bridges the gap between generic resume templates and industry-optimized documents by providing targeted suggestions and enhancement tips through an interactive review interface.
 
----
 
 ## 🧰 Tech Stack
 
@@ -26,7 +25,6 @@ This project leverages modern web technologies and powerful AI integrations:
 - **AI-Powered Feedback Engine**: Feedback is generated from AI models and stored per resume for fast retrieval and display in multiple categorized sections.
 - **TypeScript**: Ensures type safety across all major data structures, particularly for feedback and resume metadata.
 
----
 
 ## ✨ Features
 
@@ -36,7 +34,6 @@ This project leverages modern web technologies and powerful AI integrations:
 - Fully responsive design with smooth transitions and animations.
 - Secure file and metadata handling using Puter’s SDK.
 
----
 
 ## 📸 Screenshots
 
@@ -55,7 +52,6 @@ This project leverages modern web technologies and powerful AI integrations:
 ### 📄 Resume Feedback
 ![Preview Screenshot](./public/readme/Resume-review-2.png)
 
----
 
 ## ⚡ Quick Start
 
