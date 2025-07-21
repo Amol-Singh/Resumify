@@ -37,19 +37,19 @@ This project leverages modern web technologies and powerful AI integrations:
 
 ## 📸 Screenshots
 
-### 🔐 Login Page
+### Login Page
 ![Login](./public/readme/Landing-page.png)
 
-### 🏠 Home Page  
+### Home Page  
 ![Upload Screenshot](./public/readme/Home-page.png)
 
-### 📝 Resume Upload
+### Resume Upload
 ![Upload Screenshot](./public/readme/Upload-resume.png)
 
-### 🤖 AI Result
+### AI Result
 ![Feedback Screenshot](./public/readme/Resume-review-1.png)
 
-### 📄 Resume Feedback
+### Resume Feedback
 ![Preview Screenshot](./public/readme/Resume-review-2.png)
 
 
