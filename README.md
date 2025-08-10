@@ -21,8 +21,8 @@ This project leverages modern web technologies and powerful AI integrations:
 - **React (with Remix)**: Used for building a fast, scalable frontend UI with server-side rendering capabilities.
 - **Tailwind CSS**: Enables rapid styling with utility-first classes and responsive design out of the box.
 - **Puter SDK (File System + Key-Value Store)**: Utilized to store uploaded resumes, feedback, and related data persistently and securely.
+- **Claude Sonnet 4**: Used Anthropic’s language model to generate structured, categorized resume feedback for quick retrieval and display.
 - **Custom Image-to-PDF Preview**: Users get a live preview of their uploaded resumes, converted and rendered using blob-based previews.
-- **AI-Powered Feedback Engine**: Feedback is generated from AI models and stored per resume for fast retrieval and display in multiple categorized sections.
 - **TypeScript**: Ensures type safety across all major data structures, particularly for feedback and resume metadata.
 
 
